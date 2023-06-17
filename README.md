@@ -10,6 +10,7 @@ pardus kullanan kullanıcılar için programlama dillerini derlemeleri için ger
 git clone [https://github.com/lukacoder/pardus-gcc-installer](https://github.com/lukacoder/pardus-gcc-installer/)` 
 sudo apt-get install python-tk
 ```
+![image](https://github.com/lukacoder/pardus-gcc-installer/assets/101480197/12d2979e-bb82-44d4-aa62-f8e1e13fca56)
 
 ## Getting Started
 
